@@ -73,7 +73,7 @@ If you'd like to contribute code to this project, please read the
 
 # License & Copyright
 
-**docker-nsolid** is Copyright (c) 2017 NodeSource and licensed under the
+**docker-nsolid** is Copyright (c) 2018 NodeSource and licensed under the
 MIT license. All rights not explicitly granted in the MIT license are reserved.
 See the included [LICENSE.md](https://github.com/nodesource/docker-node/blob/master/LICENSE.md) file for more details.
 
